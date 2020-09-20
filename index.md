@@ -41,9 +41,9 @@ Nashik, Maharashtra, India
 ### Contact me
 
 #### Linkedin:  
-(https://docs.github.com/categories/github-pages-basics/) 
+https://www.linkedin.com/in/rishikesh-dawalkar/
 #### Email id:
-(https://docs.github.com/categories/github-pages-basics/)
+rishi8975dawalkar@gmail.com
 #### Github:
 (https://docs.github.com/categories/github-pages-basics/)
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
