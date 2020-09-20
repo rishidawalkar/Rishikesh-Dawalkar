@@ -10,7 +10,7 @@ Passionate about software technology, curious to learn new things, focusing on a
 
 
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Education
 
@@ -24,9 +24,8 @@ CGPA: 6.99/10
 
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
 
@@ -49,6 +48,9 @@ JP Morgan virtual experience
 
 ##### KPMG 
 Data analytics consulting virtual internship
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -90,12 +92,17 @@ It also provides the facility to display record of enrolled students as well as 
 This project is developed with HTML, CSS ,PHP for frontend and MySQL database for backend.
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 ### Skills
 C, C++, Java, SQL.
 
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
