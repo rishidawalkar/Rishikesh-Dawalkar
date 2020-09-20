@@ -1,6 +1,14 @@
 ## Software engineer
 
-You can use the [editor on GitHub](https://github.com/rishidawalkar/Rishikesh-Dawalkar/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+
+
+
+### About me
+
+Passionate about software technology, curious to learn new things, focusing on adapting new technologies, good communicator, good team player.
+
+
 
 
 
@@ -13,9 +21,6 @@ CGPA: 6.99/10
 
 
 
-### About me
-
-Passionate about software technology, curious to learn new things, focusing on adapting new technologies, good communicator, good team player.
 
 
 
