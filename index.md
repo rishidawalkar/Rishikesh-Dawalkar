@@ -42,9 +42,9 @@ Nashik, Maharashtra, India
 
 
 
-##### JP Morgan Virtual experience
+##### JP Morgan 
 
-
+JP Morgan virtual experience
 
 
 ##### KPMG 
