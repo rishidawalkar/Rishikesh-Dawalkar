@@ -12,9 +12,12 @@ Passionate about software technology, curious to learn new things, focusing on a
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Experience
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rishidawalkar/Rishikesh-Dawalkar/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Sankalpsoft solutions
+Web designing and development 
+May 2020 - May 2020 (1 month) 
+Nashik, Maharashtra, India
 
 ### Support or Contact
 
