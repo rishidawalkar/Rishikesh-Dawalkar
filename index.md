@@ -45,7 +45,8 @@ Nashik, Maharashtra, India
  ##### Leisure time projects 
  
  Jul 2020 - Jul 2020 
- [Visit here](https://leisuretimeprojects.imfast.io/sitehome.htm)
+ [Visit here](https://leisuretimeprojects.imfast.io/sitehome.htm).
+ 
  This project has basically Two different projects in it , first is the temperature converter and the second is rock,paper, scissors.
  This project is developed with html, css and javascript.
  
@@ -54,7 +55,8 @@ Nashik, Maharashtra, India
  ##### PROgrammer
  
  Apr 2020 - May 2020 
- [Visit here](https://pro_grammer.imfast.io/home_page.htm)
+ [Visit here](https://pro_grammer.imfast.io/home_page.htm).
+ 
  PROgrammer is a platform where we can learn nad polish our technical skills such as Data structures,Java and Object oriented concepts for our upcoming career.
  This project is developed with html, css and javascript.
 
