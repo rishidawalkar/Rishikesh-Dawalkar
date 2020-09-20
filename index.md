@@ -12,12 +12,17 @@ Passionate about software technology, curious to learn new things, focusing on a
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+
+
 ### Experience
+
 
 #### Sankalpsoft solutions
 Web designing and development 
 May 2020 - May 2020 (1 month) 
 Nashik, Maharashtra, India
+
+
 
 
 ### Education
