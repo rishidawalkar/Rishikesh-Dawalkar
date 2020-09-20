@@ -42,7 +42,7 @@ Nashik, Maharashtra, India
 ### Projects
 
 
- ##### Leisure time projects 
+##### Leisure time projects
  
  Jul 2020 - Jul 2020 
  
@@ -53,7 +53,7 @@ Nashik, Maharashtra, India
  
  
  
- #### PROgrammer
+##### PROgrammer
  
  Apr 2020 - May 2020 
  
@@ -64,7 +64,7 @@ Nashik, Maharashtra, India
 
 
 
- #### Student activity
+##### Student activity
 
 Apr 2020
 
