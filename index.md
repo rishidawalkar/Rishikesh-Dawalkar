@@ -41,9 +41,9 @@ Nashik, Maharashtra, India
 ### Contact me
 
 #### Linkedin:  
-[GitHub Flavored Markdown](https://www.linkedin.com/in/rishikesh-dawalkar/)
+[Visit here](https://www.linkedin.com/in/rishikesh-dawalkar/)
 #### Email id:
-[GitHub Flavored Markdown](rishi8975dawalkar@gmail.com)
+[Visit here](rishi8975dawalkar@gmail.com)
 #### Github:
-[GitHub Flavored Markdown](https://github.com/rishidawalkar)
+[Visit here](https://github.com/rishidawalkar)
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
