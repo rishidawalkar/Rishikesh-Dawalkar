@@ -14,7 +14,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Experience
 
-Sankalpsoft solutions
+## Sankalpsoft solutions
 Web designing and development 
 May 2020 - May 2020 (1 month) 
 Nashik, Maharashtra, India
