@@ -14,11 +14,16 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Experience
 
-## Sankalpsoft solutions
+#### Sankalpsoft solutions
 Web designing and development 
 May 2020 - May 2020 (1 month) 
 Nashik, Maharashtra, India
 
+
+### Education
+
+Savitribai Phule Pune University Bachelor's degree in engineering, Information Technology · (2017 - 2021)
+ 
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
