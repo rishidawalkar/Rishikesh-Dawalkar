@@ -27,7 +27,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 
 
-#### Sankalpsoft solutions
+##### Sankalpsoft solutions
 Web designing and development 
 May 2020 - May 2020 (1 month) 
 Nashik, Maharashtra, India
@@ -38,6 +38,9 @@ Nashik, Maharashtra, India
 
 
  
-### Support or Contact
+### Contact me
 
+####Linkedin: 
+####Email id:
+####Github:
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
