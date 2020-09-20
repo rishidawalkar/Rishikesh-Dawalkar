@@ -2,7 +2,16 @@
 
 You can use the [editor on GitHub](https://github.com/rishidawalkar/Rishikesh-Dawalkar/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+### Education
+
+Savitribai Phule Pune University Bachelor's degree in engineering, Information Technology · (2017 - 2021)
+NDMVP's KBT college of engineering
+CGPA: 6.99/10
+
+
+
 
 ### About me
 
@@ -17,6 +26,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Experience
 
 
+
 #### Sankalpsoft solutions
 Web designing and development 
 May 2020 - May 2020 (1 month) 
@@ -25,9 +35,8 @@ Nashik, Maharashtra, India
 
 
 
-### Education
 
-Savitribai Phule Pune University Bachelor's degree in engineering, Information Technology · (2017 - 2021)
+
  
 ### Support or Contact
 
