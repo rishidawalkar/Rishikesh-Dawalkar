@@ -40,11 +40,18 @@ May 2020 - May 2020 (1 month)
 Nashik, Maharashtra, India
 
 
+
+
 ##### JP Morgan Virtual experience
+
+
 
 
 ##### KPMG 
 Data analytics consulting virtual internship
+
+
+
 
 
 ### Projects
