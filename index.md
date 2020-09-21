@@ -106,7 +106,7 @@ C, C++, Java, SQL.
 
 ### Additional details
 
-Selected for Zensar technologies's ESD Program
+##### Selected for Zensar technologies's ESD Program
 
 Dec 2019-Jan 2020
 
@@ -117,7 +117,7 @@ SQL,PL/SQL
 Life skills
 
 
-Participated in Skill tests of Techgig
+##### Participated in Skill tests of Techgig
 
 
 
