@@ -92,7 +92,7 @@ It also provides the facility to display record of enrolled students as well as 
 This project is developed with HTML, CSS ,PHP for frontend and MySQL database for backend.
 
 
------------------------------------------------------------------------------------------------------------------------------------------------\
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
