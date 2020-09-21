@@ -92,7 +92,7 @@ It also provides the facility to display record of enrolled students as well as 
 This project is developed with HTML, CSS ,PHP for frontend and MySQL database for backend.
 
 
------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------\
 
 
 
@@ -104,6 +104,24 @@ C, C++, Java, SQL.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
+### Additional details
+
+Selected for Zensar technologies's ESD Program
+
+Dec 2019-Jan 2020
+
+It consisted of several domains such as:
+Communication skills
+Core Java
+SQL,PL/SQL
+Life skills
+
+
+Participated in Skill tests of Techgig
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 
  
