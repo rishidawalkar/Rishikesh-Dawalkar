@@ -34,7 +34,7 @@ CGPA: 6.99/10
 
 
 ##### Sankalpsoft solutions
-Web designing and development 
+Web designing and development internship
 May 2020 - May 2020 (1 month) 
 Nashik, Maharashtra, India
 
