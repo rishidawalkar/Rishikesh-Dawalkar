@@ -42,16 +42,6 @@ Nashik, Maharashtra, India
 
 
 
-
-##### JP Morgan 
-
-JP Morgan virtual experience
-
-
-##### KPMG 
-Data analytics consulting virtual internship
-
-
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -60,25 +50,15 @@ Data analytics consulting virtual internship
 
 ### Projects
 
-
-##### Leisure time projects
- 
- Jul 2020 - Jul 2020 
- 
- [Visit here](https://leisuretimeprojects.imfast.io/sitehome.htm).
- 
- This project has basically Two different projects in it , first is the temperature converter and the second is rock,paper, scissors.
- This project is developed with html, css and javascript.
  
  
+##### Rental cars Management System
  
-##### PROgrammer
+ Oct 2020 - Nov 2020 
+  
+ Rental cars Management System is a platform for renting cars to customers.
+ It has facility to register and do reservations for a car.
  
- Apr 2020 - May 2020 
- 
- [Visit here](https://pro_grammer.imfast.io/home_page.htm).
- 
- PROgrammer is a platform where we can learn nad polish our technical skills such as Data structures,Java and Object oriented concepts for our upcoming career.
  This project is developed with html, css and javascript.
 
 
@@ -122,7 +102,7 @@ Life skills
 ##### Participated in Skill tests of Techgig
 
 
-
+##### Participated in Coding platform such as Hackerrank
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 
