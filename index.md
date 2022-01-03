@@ -14,9 +14,8 @@ Passionate about software technology, curious to learn new things, focusing on a
 
 ### Education
 
-Savitribai Phule Pune University Bachelor's degree in engineering,
+Bachelor's degree in engineering, University of Pune
 Information Technology · (2017 - 2021)
-NDMVP's KBT college of engineering
 
 CGPA: 7.63/10
 
