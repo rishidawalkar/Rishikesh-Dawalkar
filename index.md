@@ -18,7 +18,7 @@ Savitribai Phule Pune University Bachelor's degree in engineering,
 Information Technology · (2017 - 2021)
 NDMVP's KBT college of engineering
 
-CGPA: 6.99/10
+CGPA: 7.63/10
 
 
 
@@ -31,7 +31,9 @@ CGPA: 6.99/10
 
 ### Experience
 
-
+##### Tata Consultancy services
+Assistant System Engineer (Data warehouse Developer)
+June 2021- present
 
 ##### Sankalpsoft solutions
 Web designing and development internship
@@ -80,7 +82,7 @@ This project is developed with HTML, CSS ,PHP for frontend and MySQL database fo
 
 
 ### Skills
-C, C++, Java, SQL.
+C, C++, Java, SQL, Teradata, Informatica, Unix.
 
 
 
