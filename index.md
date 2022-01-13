@@ -14,8 +14,8 @@ Passionate about software technology, curious to learn new things, focusing on a
 
 ### Education
 
-Bachelor's degree in engineering, University of Pune
-Information Technology · (2017 - 2021)
+Bachelor's degree in engineering (Information Technology), University of Pune
+ · (2017 - 2021)
 
 CGPA: 7.63/10
 
